@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "tech-brief": {
+      "command": "uv",
+      "args": ["run", "tech-brief"]
+    }
+  }
+}
